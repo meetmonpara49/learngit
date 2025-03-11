@@ -1,0 +1,7 @@
+1) mark the ticket in progress  ## git checkout react_master ##
+
+2) make the branch on git for that ticket ## git pull origin react_master ##
+
+3) ## git checkout -b 19783_issueInSearchBar ##
+
+4) publish the branch
